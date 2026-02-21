@@ -73,4 +73,6 @@ The lab reinforced that:
 
 Lab completion verification:
 - [Security+ Lab 01 – Perform System Configuration Gap Analysis](https://github.com/user-attachments/files/25454014/Lab01.-.Performing.System.Configuration.Gap.Analysis.pdf)
+- [Security Starter - Security+ V7 Badge](https://github.com/user-attachments/files/25454662/Week01Certification.pdf)
+
 
