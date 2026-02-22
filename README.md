@@ -1,22 +1,62 @@
 # Security Learning Log
 
-This repository documents my ongoing hands-on cybersecurity learning, focused on Security+ concepts and applied defensive security practices. It is intended to demonstrate consistent skill development, analytical thinking, and professional documentation.
+This repository documents my ongoing hands-on cybersecurity development, focused on Security+ concepts and applied defensive security analysis.
 
-## Focus Areas
-- Security+ domains and core concepts
-- Threats, vulnerabilities, and attack techniques
-- Defensive security controls and best practices
-- Incident response and log analysis fundamentals
+It serves as a structured, analyst-style portfolio demonstrating configuration auditing, network reconnaissance, attack surface analysis, and risk evaluation.
 
-## Tools & Technologies
-- Windows Event Viewer
-- Linux system logs
-- Networking fundamentals
-- Security+ study resources
+---
 
-## Structure
-- **security-plus/** – Weekly Security+ topic breakdowns with applied understanding
-- **applied-notes/** – Analyst-style notes focused on defensive security concepts
+## 📊 Portfolio Dashboard
 
-## Goal
-To maintain a public, up-to-date record of my cybersecurity learning as I prepare for entry-level SOC and security analyst roles.
+### Week 01 – System Configuration Gap Analysis
+- Windows Server 2019 baseline comparison
+- Microsoft Security Compliance Toolkit
+- Policy Analyzer gap detection
+- Authentication policy risk analysis
+- Compliance vs enforcement evaluation
+
+🔗 [View Week 01](week-01-system-configuration-gap-analysis.md)
+
+---
+
+### Week 02 – Network Reconnaissance & Open Service Port Analysis
+- Nmap reconnaissance across segmented networks
+- SYN scanning and service enumeration
+- OS fingerprinting
+- Firewall exposure analysis
+- Internal attack surface evaluation
+- Segmentation weakness identification
+- Mitigation strategy reasoning
+
+🔗 [View Week 02](week-02-network-reconnaissance-open-ports.md)
+
+---
+
+## 🛠 Core Tools Used
+
+- Nmap
+- Kali Linux
+- PowerShell
+- Microsoft Security Compliance Toolkit
+- Policy Analyzer
+- Windows Server environments
+
+---
+
+## 🎯 Skills Demonstrated
+
+- Configuration auditing & baseline validation
+- Attack surface mapping
+- Network segmentation analysis
+- Port scanning & service enumeration
+- Risk assessment & mitigation reasoning
+- Security governance awareness
+- Lifecycle and legacy system evaluation
+
+---
+
+## 📌 Purpose
+
+This learning log is maintained as a public record of continuous cybersecurity development while preparing for entry-level SOC and security analyst roles.
+
+Each entry reflects applied analysis rather than theoretical summaries.
