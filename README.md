@@ -2,7 +2,7 @@
 
 This repository documents my ongoing hands-on cybersecurity development, focused on Security+ concepts and applied defensive security analysis.
 
-It serves as a structured, analyst-style portfolio demonstrating configuration auditing, network reconnaissance, attack surface analysis, and risk evaluation.
+It serves as a structured, analyst-style portfolio demonstrating configuration auditing, network reconnaissance, cryptographic analysis, access control management, and risk evaluation.
 
 ---
 
@@ -32,6 +32,30 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 
 ---
 
+### Week 03 – Hashing, Salting & File Integrity Validation
+- SHA1 and MD5 hash generation in Linux
+- Hash-based malware research via MetaDefender Cloud
+- Salted vs unsalted password hash comparison
+- Brute-force cracking with John the Ripper
+- Dual-use tool vs confirmed malware analysis
+- Password storage security evaluation
+
+🔗 [View Week 03](week-03-using-hashing-and-salting.md)
+
+---
+
+### Week 04 – Identity & Access Management: Managing Permissions
+- Linux file permission configuration using symbolic and octal notation
+- Windows NTFS permission management using icacls
+- Effective permissions evaluation via Advanced Security Settings
+- SMB share creation and permission management via PowerShell
+- Permission inheritance and least privilege enforcement
+- Cross-platform access control across Linux and Windows Server
+
+🔗 [View Week 04](week-04-managing-permissions.md)
+
+---
+
 ## 🛠 Core Tools Used
 
 - Nmap
@@ -39,7 +63,11 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - PowerShell
 - Microsoft Security Compliance Toolkit
 - Policy Analyzer
+- OpenSSL
+- John the Ripper
+- MetaDefender Cloud
 - Windows Server environments
+- icacls / SMB PowerShell cmdlets
 
 ---
 
@@ -49,6 +77,10 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - Attack surface mapping
 - Network segmentation analysis
 - Port scanning & service enumeration
+- Cryptographic hashing & file integrity verification
+- Password hash analysis & brute-force resistance evaluation
+- Linux & Windows file permission management
+- Access control auditing & least privilege enforcement
 - Risk assessment & mitigation reasoning
 - Security governance awareness
 - Lifecycle and legacy system evaluation
