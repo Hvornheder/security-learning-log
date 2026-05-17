@@ -56,6 +56,19 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 
 ---
 
+### Week 05 – Secure Enterprise Network Architecture: Setting Up Remote Access
+- Windows Remote Desktop configuration and user authorization
+- Cross-platform SSH session establishment using GUI and CLI tools
+- Linux SSH service verification using systemctl, apt, and grep
+- SSH host key verification and trust establishment
+- Remote command execution across Windows and Linux systems
+- Application of least privilege in remote access configuration
+- Network interface identification and service port verification
+
+🔗 [View Week 05](week-05-setting-up-remote-access.md)
+
+---
+
 ## 🛠 Core Tools Used
 
 - Nmap
@@ -68,6 +81,10 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - MetaDefender Cloud
 - Windows Server environments
 - icacls / SMB PowerShell cmdlets
+- Microsoft Remote Desktop Protocol (RDP)
+- OpenSSH
+- PuTTY
+- Windows Command Prompt SSH client
 
 ---
 
@@ -81,6 +98,8 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - Password hash analysis & brute-force resistance evaluation
 - Linux & Windows file permission management
 - Access control auditing & least privilege enforcement
+- Remote access configuration & secure session management
+- Cross-platform SSH administration
 - Risk assessment & mitigation reasoning
 - Security governance awareness
 - Lifecycle and legacy system evaluation
