@@ -161,5 +161,5 @@ Duration: 45 minutes, 23 seconds
 
 ## Supporting Documentation
 
-- [Lab 09 – Assisted: Setting Up Remote Access](https://github.com/user-attachments/files/27902571/Lab05.-.Setting.Up.Remote.Access.pdf)
+- [Lab – Completion: Setting Up Remote Access](https://github.com/user-attachments/files/27902571/Lab05.-.Setting.Up.Remote.Access.pdf)
 - [Infrastructure Innovator – Security+ V7 Certificate of Completion](https://github.com/user-attachments/files/27902575/Week05Certification.pdf)
