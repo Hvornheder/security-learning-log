@@ -69,6 +69,32 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 
 ---
 
+### Week 06 – Cloud Infrastructure & Embedded Systems: Using Containers
+- Docker image and container lifecycle management on Windows Server 2019
+- Container session entry and interactive command execution
+- User and group auditing inside a containerized OS
+- Least privilege enforcement within containerized environments
+- Container file system persistence behavior analysis
+- Container network inspection and host reachability testing
+- Secure container configuration practices prior to production deployment
+
+🔗 [View Week 06](week-06-using-containers.md)
+
+---
+
+### Week 07 – Cloud Infrastructure & Embedded Systems: Using Virtualization
+- Hyper-V role installation via PowerShell on Windows Server 2019
+- Virtual machine creation and OS installation using Hyper-V Manager
+- Virtual switch type selection and network isolation implications
+- Private switch sandbox deployment for pre-production security validation
+- Network isolation testing across Private and External switch configurations
+- VM generation selection and Secure Boot security considerations
+- Application of network segmentation principles using virtual networking
+
+🔗 [View Week 07](week-07-using-virtualization.md)
+
+---
+
 ## 🛠 Core Tools Used
 
 - Nmap
@@ -85,6 +111,9 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - OpenSSH
 - PuTTY
 - Windows Command Prompt SSH client
+- Docker
+- Hyper-V Manager
+- Virtual Switch Manager
 
 ---
 
@@ -103,6 +132,10 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - Risk assessment & mitigation reasoning
 - Security governance awareness
 - Lifecycle and legacy system evaluation
+- Container deployment & lifecycle management
+- Containerized environment security auditing
+- Virtual machine deployment & configuration
+- Virtual network isolation design & testing
 
 ---
 
