@@ -84,7 +84,6 @@ Duration: 59 minutes, 31 seconds
 
 ## Supporting Documentation
 
-- [Lab 08 – Assisted: Managing Permissions](https://github.com/user-attachments/files/26490118/Lab04.-.Managing.Permissions.pdf)
-
+- [Lab – Completion: Managing Permissions](https://github.com/user-attachments/files/26490118/Lab04.-.Managing.Permissions.pdf)
 - [Access Architect – Security+ V7 Certificate of Completion](https://github.com/user-attachments/files/26490120/Week04Certification.pdf)
 
