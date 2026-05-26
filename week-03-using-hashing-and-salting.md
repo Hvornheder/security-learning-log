@@ -111,6 +111,6 @@ The lab also reinforced an important analytical principle: detection output is e
 
 ## Supporting Documentation
 
-- [Lab Completion Verification](https://github.com/user-attachments/files/26163424/Lab03.-.Assisted.Live.Lab.Using.Hashing.and.Salting.pdf)
+- [Lab - Completion: Using Hashing & Salting](https://github.com/user-attachments/files/26163424/Lab03.-.Assisted.Live.Lab.Using.Hashing.and.Salting.pdf)
 
-- [Security+ V7 Badge / Certificate](https://github.com/user-attachments/files/26163559/Week03Certification.pdf)
+- [Security+ V7 Badge: Crypto Warrior](https://github.com/user-attachments/files/26163559/Week03Certification.pdf)
