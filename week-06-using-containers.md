@@ -163,3 +163,4 @@ Duration: 26 minutes, 6 seconds
 ## Supporting Documentation
 
 - [Lab 11 – Assisted: Using Containers](https://github.com/user-attachments/files/28275990/Lab06P1.-.Using.Containers.pdf)
+- [Security+ V7 Badge: Cloud Centurion](https://github.com/user-attachments/files/28276221/Week06Certification.pdf)
