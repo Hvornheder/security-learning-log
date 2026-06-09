@@ -95,6 +95,19 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 
 ---
 
+### Week 08 – Resilience and Recovery: Implementing Backups
+- Backup volume preparation using diskpart on Windows Server 2019
+- Windows Server Backup configuration and one-time backup execution
+- File restoration from backup using the Recovery Wizard
+- Volume Shadow Copy Service (VSS) enablement and forced snapshot creation
+- Previous version restoration via the Windows Properties interface
+- Operational distinction between full backup recovery and VSS point-in-time restoration
+- Recovery validation practices for confirming backup integrity
+
+🔗 [View Week 08](week-08-implementing-backups.md)
+
+---
+
 ## 🛠 Core Tools Used
 
 - Nmap
@@ -114,6 +127,9 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - Docker
 - Hyper-V Manager
 - Virtual Switch Manager
+- Windows Server Backup
+- Volume Shadow Copy Service (VSS)
+- diskpart
 
 ---
 
@@ -136,6 +152,9 @@ It serves as a structured, analyst-style portfolio demonstrating configuration a
 - Containerized environment security auditing
 - Virtual machine deployment & configuration
 - Virtual network isolation design & testing
+- Backup configuration & recovery validation
+- Point-in-time file versioning with VSS
+- Data resilience & disaster recovery planning
 
 ---
 
