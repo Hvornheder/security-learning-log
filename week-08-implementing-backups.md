@@ -206,5 +206,6 @@ Duration: 41 minutes, 33 seconds
 ## Supporting Documentation
 
 - [Lab – Completion: Implementing Backups](https://github.com/user-attachments/files/28739091/Lab07.-.Implement.Backups.pdf)
+- [Security+ V7 Badge: Resiliency Raider](https://github.com/user-attachments/files/28754315/ResiliencyRaiderCertification.pdf)
+- [Security+ V7 Badge: OnDemand Security+ Part 1](https://github.com/user-attachments/files/28754374/OnDemandSecurity%2BPart1Certification.pdf)
 
-- [Security+ V7 Badge: TBD](#)  
